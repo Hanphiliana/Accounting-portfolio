@@ -1,0 +1,15 @@
+📂 Accounting-Portfolio
+ ┣ 📂 Financial-Statements
+ ┃ ┣ Neraca.xlsx
+ ┃ ┣ Laporan-Laba-Rugi.xlsx
+ ┃ ┗ Catatan-Atas-Laporan.docx
+ ┣ 📂 Audit-Case
+ ┃ ┣ ACL_Audit_Simulation.acl
+ ┃ ┗ Analisis-Transaksi-Fiktif.xlsx
+ ┣ 📂 Data-Analysis
+ ┃ ┣ Pivot-Laporan-Penjualan.xlsx
+ ┃ ┗ Dashboard-PowerBI.pbix
+ ┣ 📂 Taxation
+ ┃ ┣ PPh21-Perhitungan.xlsx
+ ┃ ┗ PPN-Simulasi.xlsx
+ ┣ 📄 README.md
