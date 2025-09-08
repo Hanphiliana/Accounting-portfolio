@@ -1,0 +1,119 @@
+# 1. Pengantar PPN
+
+## Definisi
+Pajak Pertambahan Nilai (PPN) adalah pajak yang dikenakan atas **konsumsi barang/jasa di dalam negeri**, dikenakan secara bertingkat (multi-stage tax) namun dengan mekanisme **kredit pajak masukan**.
+
+## Dasar Hukum
+- UU No. 8 Tahun 1983 tentang PPN (diubah terakhir UU HPP No. 7 Tahun 2021).
+- Peraturan pelaksana: PP, PMK, PER-Dirjen Pajak.
+
+## Ciri-Ciri PPN
+- Pajak tidak langsung (ditanggung konsumen akhir).
+- Multi-stage tax dengan mekanisme pengkreditan.
+- Objektif (berdasarkan objek, bukan subjek).
+- Luas cakupannya: BKP dan JKP.
+
+# 2. Objek dan Tidak Objek PPN
+
+## Objek PPN
+1. Penyerahan Barang Kena Pajak (BKP) di dalam negeri.
+2. Penyerahan Jasa Kena Pajak (JKP).
+3. Impor BKP.
+4. Pemanfaatan BKP tidak berwujud dari luar negeri.
+5. Pemanfaatan JKP dari luar negeri.
+6. Ekspor BKP & JKP oleh Pengusaha Kena Pajak (PKP).
+
+## Tidak Dikenakan PPN
+- Barang kebutuhan pokok tertentu.
+- Jasa kesehatan, pendidikan, sosial.
+- Jasa keuangan tertentu.
+
+# 3. Tarif PPN
+
+## Tarif Umum
+- **11%** sejak 1 April 2022 (UU HPP).
+- Rencana naik menjadi **12% paling lambat 1 Januari 2025**.
+
+## Tarif Khusus
+- Ekspor BKP berwujud: **0%**.
+- Ekspor BKP tidak berwujud: **0%**.
+- Ekspor JKP: **0%**.
+
+# 4. Pemungut PPN
+
+## Subjek Pemungut
+1. **PKP (Pengusaha Kena Pajak)** → wajib memungut PPN.
+2. **Pemungut Bendahara Pemerintah / BUMN** tertentu.
+3. **Platform Perdagangan Melalui Sistem Elektronik (PMSE)** luar negeri.
+
+## Kewajiban PKP
+- Memungut PPN atas penyerahan BKP/JKP.
+- Membuat faktur pajak.
+- Menyetorkan dan melaporkan PPN.
+
+# 5. Mekanisme PPN
+
+## Dasar Pengenaan Pajak (DPP)
+- Harga jual
+- Penggantian
+- Nilai impor
+- Nilai ekspor
+- Nilai lain (ditetapkan Menteri Keuangan)
+
+## Rumus PPN
+
+PPN Terutang = Tarif PPN x DPP
+## Mekanisme Kredit Pajak Masukan
+- **Pajak Keluaran (PK)** → PPN yang dipungut atas penjualan.
+- **Pajak Masukan (PM)** → PPN yang dibayar saat membeli.
+
+PPN yang harus disetor = PK - PM
+
+# 6. Faktur Pajak
+
+## Definisi
+Faktur Pajak adalah bukti pungutan PPN oleh PKP.
+
+## Jenis
+- Faktur pajak keluaran → dibuat PKP saat menjual BKP/JKP.
+- Faktur pajak masukan → diterima PKP saat membeli BKP/JKP.
+
+## Syarat Formal
+- Identitas PKP penjual & pembeli.
+- Jenis barang/jasa.
+- Harga jual / penggantian.
+- PPN yang dipungut.
+- Tanggal & nomor seri faktur pajak.
+# 7. PPN Khusus
+
+## PPN Final
+- Penyerahan rumah sederhana/rumah susun sederhana.
+- Penyerahan kendaraan bermotor tertentu.
+
+## PPN atas Kegiatan Tertentu
+- Jasa biro perjalanan.
+- Jasa penyelenggara event.
+- PPN di kawasan bebas (Batam, Bintan, dll).
+
+### Soal 1
+Sebuah perusahaan menjual BKP seharga Rp200.000.000 (belum PPN). Hitung PPN yang harus dipungut!
+
+**Jawab:**  
+PPN = 11% × Rp200.000.000 = Rp22.000.000  
+Total tagihan = Rp222.000.000
+
+---
+
+### Soal 2
+PKP memiliki:  
+- Pajak Keluaran = Rp50.000.000  
+- Pajak Masukan = Rp35.000.000  
+
+Berapa PPN yang harus disetor?
+
+**Jawab:**  
+PPN Terutang = PK – PM  
+= Rp50.000.000 – Rp35.000.000  
+= Rp15.000.000
+
+- Jasa keagamaan, kesenian, tenaga kerja.
